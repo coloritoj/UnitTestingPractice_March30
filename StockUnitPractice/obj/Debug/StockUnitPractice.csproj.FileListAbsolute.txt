@@ -1,0 +1,7 @@
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\bin\Debug\StockUnitPractice.exe.config
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\bin\Debug\StockUnitPractice.exe
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\bin\Debug\StockUnitPractice.pdb
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\obj\Debug\StockUnitPractice.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\obj\Debug\StockUnitPractice.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\obj\Debug\StockUnitPractice.exe
+C:\Users\color\source\repos\UnitTestingPractice_March30\StockUnitPractice\obj\Debug\StockUnitPractice.pdb
