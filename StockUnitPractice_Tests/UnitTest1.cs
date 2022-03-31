@@ -21,6 +21,8 @@ using StockUnitPractice;
     // If the ticker is between 1.00 and 9,000.00, return "This is an averagely priced stock"
     // If the ticker is greater than 9,000.00, return "TO THE MOON!"
 
+// HELLO WORLD
+
 namespace StockUnitPractice_Tests
 {
     public class CheckIfMemeStock_Tests
